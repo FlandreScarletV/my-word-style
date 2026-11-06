@@ -25,8 +25,6 @@
 | 公式 | Word 原生可编辑公式，居左，编号 `(1)` 居右 |
 | 页码 | 底部居中，首页不显示 |
 
-默认只生成 Word；需要 PDF 时单独提出。
-
 ## 🛠️ 模板与脚本
 
 原 Word 样式保存在 [模板文件](assets/word-styles-template.docx) 中，可替换为自己的模板。完整规则见 [SKILL.md](SKILL.md)。
