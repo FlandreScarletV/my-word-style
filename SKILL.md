@@ -1,7 +1,5 @@
 ---
 name: my-word-style
-metadata:
-  version: "1.1.0"
 description: 按用户既有Word样式创建或更新周报、实验结果报告和对照文档。使用正文1、标题1、标题 2、标题 3与TOC 1，配合SCI式三线表、彩色图、原生编号公式及完整单页表格。用于用户的个人Word排版，不套用完整SCI论文结构。
 ---
 
