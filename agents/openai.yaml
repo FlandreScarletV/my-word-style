@@ -1,4 +1,4 @@
 interface:
   display_name: "my-word-style"
   short_description: "按既有Word样式生成周报与实验对照，含三线表、彩色图及原生编号公式"
-  default_prompt: "使用 $my-word-style，按我的Word样式整理材料，保留选择过程和结果，检查公式编号及表格整页显示。"
+  default_prompt: "使用 $my-word-style，按我的Word样式整理材料，保留选择过程和结果，补充中途遇到的困难与未来计划，检查公式编号及表格整页显示。"
